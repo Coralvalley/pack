@@ -1,0 +1,14 @@
+{
+	"parent": "item/generated",
+	"textures": {
+		"layer0": "item/beef"
+	},
+	"overrides": [
+		{"predicate": {"custom_model_data":1}, "model": "item/food/chocolade_ijs"},
+		{"predicate": {"custom_model_data":2}, "model": "item/food/kinderijsje"},
+		{"predicate": {"custom_model_data":3}, "model": "item/food/aardbeienijs"},
+		{"predicate": {"custom_model_data":4}, "model": "item/food/chocoladekinderijsje"},
+		{"predicate": {"custom_model_data":5}, "model": "item/food/vanilleijs"},
+		{"predicate": {"custom_model_data":6}, "model": "item/food/smurfenijs"}
+	]
+}

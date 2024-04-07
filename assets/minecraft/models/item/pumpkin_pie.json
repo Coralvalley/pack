@@ -1,0 +1,11 @@
+{
+	"parent": "item/generated",
+	"textures": {
+		"layer0": "item/pumpkin_pie"
+	},
+	"overrides": [
+		{"predicate": {"custom_model_data":1}, "model": "item/food/bourito"},
+		{"predicate": {"custom_model_data":2}, "model": "item/food/pizza"},
+		{"predicate": {"custom_model_data":3}, "model": "item/food/pizza2"}
+	]
+}

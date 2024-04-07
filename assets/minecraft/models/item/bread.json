@@ -1,0 +1,21 @@
+{
+	"parent": "item/generated",
+	"textures": {
+		"layer0": "item/bread"
+	},
+	"overrides": [
+		{"predicate": {"custom_model_data":1}, "model": "item/food/aardbei"},
+		{"predicate": {"custom_model_data":2}, "model": "item/food/hamburger"},
+		{"predicate": {"custom_model_data":3}, "model": "item/food/spareribs"},
+		{"predicate": {"custom_model_data":4}, "model": "item/food/sushi"},
+		{"predicate": {"custom_model_data":5}, "model": "item/food/kreeft"},
+		{"predicate": {"custom_model_data":6}, "model": "item/food/wafel"},
+		{"predicate": {"custom_model_data":7}, "model": "item/food/nigirisushi"},
+		{"predicate": {"custom_model_data":8}, "model": "item/food/broodjegezond"},
+		{"predicate": {"custom_model_data":9}, "model": "item/food/tomaat"},
+		{"predicate": {"custom_model_data":10}, "model": "item/food/croissant"},
+		{"predicate": {"custom_model_data":11}, "model": "item/food/broodjedonor"},
+		{"predicate": {"custom_model_data":12}, "model": "item/food/zoutevis"},
+		{"predicate": {"custom_model_data":13}, "model": "item/food/druiven"}
+	]
+}

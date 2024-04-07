@@ -1,0 +1,23 @@
+{
+	"parent": "item/generated",
+	"textures": {
+		"layer0": "item/cookie"
+	},
+	"overrides": [
+		{"predicate": {"custom_model_data":1}, "model": "item/food/blauwebessendonut"},
+		{"predicate": {"custom_model_data":2}, "model": "item/food/vanillemuffin"},
+		{"predicate": {"custom_model_data":3}, "model": "item/food/cupcake"},
+		{"predicate": {"custom_model_data":4}, "model": "item/food/aardbeienmuffin"},
+		{"predicate": {"custom_model_data":5}, "model": "item/food/koek"},
+		{"predicate": {"custom_model_data":6}, "model": "item/food/wafel"},
+		{"predicate": {"custom_model_data":7}, "model": "item/food/wittedonut"},
+		{"predicate": {"custom_model_data":8}, "model": "item/food/chocoladedonut"},
+		{"predicate": {"custom_model_data":9}, "model": "item/food/kerstdonut"},
+		{"predicate": {"custom_model_data":10}, "model": "item/food/halloweendonut"},
+		{"predicate": {"custom_model_data":11}, "model": "item/food/chocolademuffin"},
+		{"predicate": {"custom_model_data":12}, "model": "item/food/oliebol"},
+		{"predicate": {"custom_model_data":13}, "model": "item/food/kerstkoekje"},
+		{"predicate": {"custom_model_data":14}, "model": "item/food/aardbeiendonut"}
+
+	]
+}

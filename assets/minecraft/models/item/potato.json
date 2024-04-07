@@ -1,0 +1,12 @@
+{
+	"parent": "item/generated",
+	"textures": {
+		"layer0": "item/potato"
+	},
+	"overrides": [
+		{"predicate": {"custom_model_data":1}, "model": "item/food/kaas"},
+		{"predicate": {"custom_model_data":2}, "model": "item/food/groenedruiven"},
+		{"predicate": {"custom_model_data":3}, "model": "item/food/banaan"},
+		{"predicate": {"custom_model_data":4}, "model": "item/food/honing"}
+	]
+}

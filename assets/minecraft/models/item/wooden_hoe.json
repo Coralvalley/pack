@@ -1,0 +1,24 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "custom/overige/sign_normal"
+    },
+    "overrides": [
+		{"predicate": {"custom_model_data":1}, "model": "item/wapens/ak47goldsmt"},
+        {"predicate": {"custom_model_data":2}, "model": "item/wapens/aks74u_normal"},
+        {"predicate": {"custom_model_data":3}, "model": "item/wapens/coltacpsmt"},
+        {"predicate": {"custom_model_data":4}, "model": "item/wapens/deserteagle"},
+        {"predicate": {"custom_model_data":5}, "model": "item/wapens/glock_normal"},
+        {"predicate": {"custom_model_data":6}, "model": "item/wapens/golddeserteagle"},
+        {"predicate": {"custom_model_data":7}, "model": "item/wapens/m16a4new"},
+        {"predicate": {"custom_model_data":8}, "model": "item/wapens/minigun"},
+        {"predicate": {"custom_model_data":9}, "model": "item/wapens/mp5_normal"},
+        {"predicate": {"custom_model_data":10}, "model": "item/wapens/p90"},
+        {"predicate": {"custom_model_data":11}, "model": "item/wapens/remington870_normal"},
+        {"predicate": {"custom_model_data":12}, "model": "item/wapens/revolversmt"},
+        {"predicate": {"custom_model_data":13}, "model": "item/wapens/ssgsmt"},
+        {"predicate": {"custom_model_data":14}, "model": "item/wapens/tommygunsmt"},
+        {"predicate": {"custom_model_data":15}, "model": "item/wapens/umpsmt"},
+        {"predicate": {"custom_model_data":16}, "model": "item/wapens/uzismt"}
+	]
+}

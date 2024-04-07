@@ -1,0 +1,11 @@
+{
+	"parent": "item/generated",
+	"textures": {
+		"layer0": "item/mutton"
+	},
+	"overrides": [
+		{"predicate": {"custom_model_data":1}, "model": "item/food/oesters"},
+		{"predicate": {"custom_model_data":2}, "model": "item/food/haring"},
+		{"predicate": {"custom_model_data":3}, "model": "item/food/mosselen"}
+	]
+}
