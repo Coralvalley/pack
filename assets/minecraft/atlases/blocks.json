@@ -170,6 +170,14 @@
         },
         {
             "type": "single",
+            "resource": "minecraft:custom/icons/eventtoken"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:custom/icons/gps"
+        },
+        {
+            "type": "single",
             "resource": "minecraft:custom/overige/steampunk_case"
         },
         {

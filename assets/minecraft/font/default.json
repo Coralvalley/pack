@@ -9,25 +9,34 @@
                "\uF801"
          ]
       },   
-		{
-			"type": "bitmap",
-			"file": "font/black.png",
-			"ascent": 500,
-			"height": 2048,
-			"shift": [3.0, 50.0],
-			"chars": [  
-				"⑬"
-			]
-		},      
-		{
-			"type": "bitmap",
-			"file": "minecraft:font/coralvalley.png",
-			"ascent": 25,
-			"height": 80,
-			"chars": [
-				"\uE003"
-			]
-		},     
+      {
+         "type": "bitmap",
+         "file": "font/black.png",
+         "ascent": 500,
+         "height": 2048,
+         "shift": [3.0, 50.0],
+         "chars": [  
+            "⑬"
+         ]
+      },      
+      {
+         "type": "bitmap",
+         "file": "minecraft:font/emortalmc-menu.png",
+         "ascent": 25,
+         "height": 80,
+         "chars": [
+            "\uE003"
+         ]
+      },
+      {
+         "type": "bitmap",
+         "file": "minecraft:font/emortalmc-menu-2.png",
+         "ascent": 25,
+         "height": 80,
+         "chars": [
+            "\uE004"
+         ]
+      },   
      
       {
          "file":"custom/font/ranks/owner.png",
