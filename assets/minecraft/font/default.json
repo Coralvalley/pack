@@ -21,7 +21,7 @@
 		},      
 		{
 			"type": "bitmap",
-			"file": "minecraft:font/coralvalley.png",
+			"file": "minecraft:font/coralvalleys.png",
 			"ascent": 25,
 			"height": 80,
 			"chars": [
