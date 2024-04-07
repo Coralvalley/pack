@@ -21,13 +21,14 @@
 		},      
 		{
 			"type": "bitmap",
-			"file": "minecraft:font/coralvalleys.png",
+			"file": "minecraft:font/coralvalley.png",
 			"ascent": 25,
 			"height": 80,
 			"chars": [
 				"\uE003"
 			]
-		},          
+		},     
+     
       {
          "file":"custom/font/ranks/owner.png",
          "chars":[
