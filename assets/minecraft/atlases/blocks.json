@@ -1262,6 +1262,10 @@
         },
         {
             "type": "single",
+            "resource": "minecraft:guns/gray4"
+        },
+        {
+            "type": "single",
             "resource": "minecraft:temp/kerstkrans_leaves"
         },
         {
@@ -1347,10 +1351,6 @@
         {
             "type": "single",
             "resource": "minecraft:./boksbeugelgold"
-        },
-        {
-            "type": "single",
-            "resource": "minecraft:guns/gray4"
         },
         {
             "type": "single",

@@ -5,6 +5,10 @@
 	},
 	"overrides": [
 		{"predicate": {"custom_model_data":1}, "model": "custom/icons/eventtoken"},
-		{"predicate": {"custom_model_data":2}, "model": "custom/icons/gps"}
+		{"predicate": {"custom_model_data":2}, "model": "custom/icons/gps"},
+		{"predicate": {"custom_model_data":3}, "model": "custom/ammo/arammo"},
+		{"predicate": {"custom_model_data":4}, "model": "custom/ammo/lmgammo"},
+		{"predicate": {"custom_model_data":5}, "model": "custom/ammo/pistolammo"},
+		{"predicate": {"custom_model_data":6}, "model": "custom/ammo/smgammo"}
 	]
 }
