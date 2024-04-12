@@ -1262,7 +1262,15 @@
         },
         {
             "type": "single",
-            "resource": "minecraft:guns/gray4"
+            "resource": "minecraft:custom_ui/items/slot_blank"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:custom_ui/items/slot_opaque"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:custom_ui/items/slot_transparent"
         },
         {
             "type": "single",
@@ -1351,6 +1359,10 @@
         {
             "type": "single",
             "resource": "minecraft:./boksbeugelgold"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:guns/gray4"
         },
         {
             "type": "single",
