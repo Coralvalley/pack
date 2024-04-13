@@ -10,6 +10,15 @@
             ]
        },
        {
+            "type": "bitmap",
+            "file": "coralvalley:ui/questmenu.png",
+            "ascent": 20,
+            "height": 255, 
+            "chars": [
+                ""
+            ]
+        },
+        {
             "type": "space",
             "advances": {
                 "":-1,
@@ -22,6 +31,19 @@
                 "":-128,
                 "":-256
             }
-       }
+        },
+        {"type": "bitmap", "file": "coralvalley:ui/bankdeposit.png","ascent": 24,"height": 103,"chars": ["ㇺ"]},
+        {"type": "bitmap", "file": "coralvalley:ui/bankwithdraw.png","ascent": 24,"height": 103,"chars": ["ァ"]},
+        {"type": "bitmap", "file": "coralvalley:ui/bankgui.png","ascent": 24,"height": 103,"chars": ["ゥ"]},
+        {"type": "bitmap", "file": "coralvalley:ui/bankgui/one.png","ascent": -8,"height": 7,"chars": ["ㇻ"]},
+        {"type": "bitmap", "file": "coralvalley:ui/bankgui/two.png","ascent": -8,"height": 7,"chars": ["ㇼ"]},
+        {"type": "bitmap", "file": "coralvalley:ui/bankgui/three.png","ascent": -8,"height": 7,"chars": ["ㇽ"]},
+        {"type": "bitmap", "file": "coralvalley:ui/bankgui/four.png","ascent": -8,"height": 7,"chars": ["ㇾ"]},
+        {"type": "bitmap", "file": "coralvalley:ui/bankgui/five.png","ascent": -8,"height": 7,"chars": ["ㇿ"]},
+        {"type": "bitmap", "file": "coralvalley:ui/bankgui/six.png","ascent": -8,"height": 7,"chars": ["㆐"]},
+        {"type": "bitmap", "file": "coralvalley:ui/bankgui/seven.png","ascent": -8,"height": 7,"chars": ["㆑"]},
+        {"type": "bitmap", "file": "coralvalley:ui/bankgui/eight.png","ascent": -8,"height": 7,"chars": ["㆒"]}, 
+        {"type": "bitmap", "file": "coralvalley:ui/bankgui/nine.png","ascent": -8,"height": 7,"chars": ["ぁ"]}, 
+        {"type": "bitmap", "file": "coralvalley:ui/bankgui/zero.png","ascent": -8,"height": 7,"chars": ["ゑ"]} 
     ]
 }
