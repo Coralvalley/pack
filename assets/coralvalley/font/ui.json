@@ -44,6 +44,10 @@
         {"type": "bitmap", "file": "coralvalley:ui/bankgui/seven.png","ascent": -8,"height": 7,"chars": ["㆑"]},
         {"type": "bitmap", "file": "coralvalley:ui/bankgui/eight.png","ascent": -8,"height": 7,"chars": ["㆒"]}, 
         {"type": "bitmap", "file": "coralvalley:ui/bankgui/nine.png","ascent": -8,"height": 7,"chars": ["ぁ"]}, 
-        {"type": "bitmap", "file": "coralvalley:ui/bankgui/zero.png","ascent": -8,"height": 7,"chars": ["ゑ"]} 
+        {"type": "bitmap", "file": "coralvalley:ui/bankgui/zero.png","ascent": -8,"height": 7,"chars": ["ゑ"]},
+        {"type": "bitmap","file": "coralvalley:general/logosquare.png","ascent": 55, "height": 80,"chars": ["⿌⿍"]},
+        {"type": "bitmap","file": "coralvalley:general/logosquare.png","ascent": 18.75, "height": 35,"chars": ["җҘ"]},
+        {"type": "bitmap","file": "coralvalley:utils/space.png","ascent": -32768,"height": -3,"chars": ["⿎"]}
+
     ]
 }

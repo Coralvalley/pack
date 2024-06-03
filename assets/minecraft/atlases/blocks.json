@@ -26,31 +26,15 @@
         },
         {
             "type": "single",
-            "resource": "minecraft:guns/yellow1"
-        },
-        {
-            "type": "single",
-            "resource": "minecraft:guns/graygreen2"
-        },
-        {
-            "type": "single",
-            "resource": "minecraft:guns/green1"
-        },
-        {
-            "type": "single",
-            "resource": "minecraft:badges/clear"
-        },
-        {
-            "type": "single",
-            "resource": "minecraft:drugs/cocaine_n_money"
-        },
-        {
-            "type": "single",
             "resource": "minecraft:custom/kluislicht"
         },
         {
             "type": "single",
             "resource": "minecraft:custom/usbmodel"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:badges/clear"
         },
         {
             "type": "single",
@@ -1350,18 +1334,6 @@
         },
         {
             "type": "single",
-            "resource": "minecraft:./boksbeugels_atlas"
-        },
-        {
-            "type": "single",
-            "resource": "minecraft:./boksbeugelblack"
-        },
-        {
-            "type": "single",
-            "resource": "minecraft:./boksbeugelgold"
-        },
-        {
-            "type": "single",
             "resource": "minecraft:guns/gray4"
         },
         {
@@ -1383,6 +1355,10 @@
         {
             "type": "single",
             "resource": "minecraft:guns/scope"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:guns/green1"
         },
         {
             "type": "single",
