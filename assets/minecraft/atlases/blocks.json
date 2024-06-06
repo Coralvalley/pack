@@ -2,6 +2,10 @@
     "sources": [
         {
             "type": "single",
+            "resource": "coralvalley:general/square"
+        },
+        {
+            "type": "single",
             "resource": "minecraft:custom/equipment_icon"
         },
         {
@@ -1363,14 +1367,6 @@
         {
             "type": "single",
             "resource": "minecraft:./prosthetic_knife_mesh"
-        },
-        {
-            "type": "single",
-            "resource": "minecraft:./zakmes"
-        },
-        {
-            "type": "single",
-            "resource": "minecraft:./zakmesgold"
         },
         {
             "type": "single",
