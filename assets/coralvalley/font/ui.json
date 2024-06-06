@@ -47,7 +47,24 @@
         {"type": "bitmap", "file": "coralvalley:ui/bankgui/zero.png","ascent": -8,"height": 7,"chars": ["ゑ"]},
         {"type": "bitmap","file": "coralvalley:general/logosquare.png","ascent": 55, "height": 80,"chars": ["⿌⿍"]},
         {"type": "bitmap","file": "coralvalley:general/logosquare.png","ascent": 18.75, "height": 35,"chars": ["җҘ"]},
-        {"type": "bitmap","file": "coralvalley:utils/space.png","ascent": -32768,"height": -3,"chars": ["⿎"]}
-
+        {"type": "bitmap","file": "coralvalley:utils/space.png","ascent": -32768,"height": -3,"chars": ["⿎"]},
+        {"type":"bitmap","file":"coralvalley:icons/crown/1.png","chars":[""],"ascent":7,"height":8},
+        {"type":"bitmap","file":"coralvalley:icons/crown/1_big.png","chars":[""],"ascent":7,"height":16},
+        {"type":"bitmap","file":"coralvalley:icons/crown/2.png","chars":[""],"ascent":7,"height":8},
+        {"type":"bitmap","file":"coralvalley:icons/crown/2_big.png","chars":[""],"ascent":7,"height":16},
+        {"type":"bitmap","file":"coralvalley:icons/crown/3.png","chars":[""],"ascent":7,"height":8},
+        {"type":"bitmap","file":"coralvalley:icons/crown/3_big.png","chars":[""],"ascent":7,"height":16},
+        {"type":"bitmap","file":"coralvalley:icons/crown/4.png","chars":[""],"ascent":7,"height":8},
+        {"type":"bitmap","file":"coralvalley:icons/crown/4_big.png","chars":[""],"ascent":7,"height":16},
+        {"type":"bitmap","file":"coralvalley:icons/crown/5.png","chars":[""],"ascent":7,"height":8},
+        {"type":"bitmap","file":"coralvalley:icons/crown/5_big.png","chars":[""],"ascent":7,"height":16},
+        {"type":"bitmap","file":"coralvalley:icons/crown/6.png","chars":[""],"ascent":7,"height":8},
+        {"type":"bitmap","file":"coralvalley:icons/crown/6_big.png","chars":[""],"ascent":7,"height":16},
+        {"type":"bitmap","file":"coralvalley:icons/crown/7.png","chars":[""],"ascent":7,"height":8},
+        {"type":"bitmap","file":"coralvalley:icons/crown/7_big.png","chars":[""],"ascent":7,"height":16},
+        {"type":"bitmap","file":"coralvalley:icons/crown/8.png","chars":[""],"ascent":7,"height":8},
+        {"type":"bitmap","file":"coralvalley:icons/crown/8_big.png","chars":[""],"ascent":7,"height":16},
+        {"type":"bitmap","file":"coralvalley:icons/crown/9.png","chars":[""],"ascent":7,"height":8},
+        {"type":"bitmap","file":"coralvalley:icons/crown/9_big.png","chars":[""],"ascent":7,"height":16}
     ]
 }
