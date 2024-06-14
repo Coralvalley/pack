@@ -129,16 +129,11 @@
             }
         },
         "overrides": [
-            {"predicate": {"custom_model_data":1}, "model": "item/wapens/batspikes"},
-            {"predicate": {"custom_model_data":2}, "model": "item/wapens/bijl"},
-            {"predicate": {"custom_model_data":3}, "model": "item/wapens/boksbeugel"},
-            {"predicate": {"custom_model_data":4}, "model": "item/wapens/boksbeugelblack"},
-            {"predicate": {"custom_model_data":5}, "model": "item/wapens/boksbeugelgold"},
-            {"predicate": {"custom_model_data":6}, "model": "item/wapens/katana"},
-            {"predicate": {"custom_model_data":7}, "model": "item/wapens/machete"},
-            {"predicate": {"custom_model_data":8}, "model": "item/wapens/orkknuppel"},
-            {"predicate": {"custom_model_data":9}, "model": "item/wapens/vlindermes"},
-            {"predicate": {"custom_model_data":10}, "model": "item/wapens/zakmes"},
-            {"predicate": {"custom_model_data":11}, "model": "item/wapens/zakmesgold"}
+            {"predicate": {"custom_model_data":1}, "model": "coralvalley:custom/weapons/melee/batspikes"},
+            {"predicate": {"custom_model_data":2}, "model": "coralvalley:custom/weapons/melee/bijl"},
+            {"predicate": {"custom_model_data":3}, "model": "coralvalley:custom/weapons/melee/katana"},
+            {"predicate": {"custom_model_data":4}, "model": "coralvalley:custom/weapons/melee/machete"},
+            {"predicate": {"custom_model_data":5}, "model": "coralvalley:custom/weapons/melee/orkknuppel"},
+            {"predicate": {"custom_model_data":6}, "model": "coralvalley:custom/weapons/melee/vlindermes"}
         ]
 }

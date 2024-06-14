@@ -6,6 +6,122 @@
         },
         {
             "type": "single",
+            "resource": "coralvalley:custom/weapons/arammo"
+        },
+        {
+            "type": "single",
+            "resource": "coralvalley:custom/weapons/grenade"
+        },
+        {
+            "type": "single",
+            "resource": "coralvalley:custom/weapons/lmgammo"
+        },
+        {
+            "type": "single",
+            "resource": "coralvalley:custom/weapons/pistolammo"
+        },
+        {
+            "type": "single",
+            "resource": "coralvalley:custom/weapons/smgammo"
+        },
+        {
+            "type": "single",
+            "resource": "coralvalley:custom/weapons/ak47gold"
+        },
+        {
+            "type": "single",
+            "resource": "coralvalley:custom/weapons/als74u"
+        },
+        {
+            "type": "single",
+            "resource": "coralvalley:custom/weapons/coltacpsmt"
+        },
+        {
+            "type": "single",
+            "resource": "coralvalley:custom/weapons/deserteagle"
+        },
+        {
+            "type": "single",
+            "resource": "coralvalley:custom/weapons/glock_normal"
+        },
+        {
+            "type": "single",
+            "resource": "coralvalley:custom/weapons/golddeserteagle"
+        },
+        {
+            "type": "single",
+            "resource": "coralvalley:custom/weapons/m16a4"
+        },
+        {
+            "type": "single",
+            "resource": "coralvalley:custom/weapons/minigun"
+        },
+        {
+            "type": "single",
+            "resource": "coralvalley:custom/weapons/mp5"
+        },
+        {
+            "type": "single",
+            "resource": "coralvalley:custom/weapons/p90"
+        },
+        {
+            "type": "single",
+            "resource": "coralvalley:custom/weapons/remington870"
+        },
+        {
+            "type": "single",
+            "resource": "coralvalley:custom/weapons/revolver"
+        },
+        {
+            "type": "single",
+            "resource": "coralvalley:custom/weapons/ssgs"
+        },
+        {
+            "type": "single",
+            "resource": "coralvalley:custom/weapons/tommygun"
+        },
+        {
+            "type": "single",
+            "resource": "coralvalley:custom/weapons/ump"
+        },
+        {
+            "type": "single",
+            "resource": "coralvalley:custom/weapons/uzis"
+        },
+        {
+            "type": "single",
+            "resource": "coralvalley:custom/weapons/batspikes"
+        },
+        {
+            "type": "single",
+            "resource": "coralvalley:custom/weapons/bijl"
+        },
+        {
+            "type": "single",
+            "resource": "coralvalley:custom/weapons/blackshield"
+        },
+        {
+            "type": "single",
+            "resource": "coralvalley:custom/weapons/katana"
+        },
+        {
+            "type": "single",
+            "resource": "coralvalley:custom/weapons/machete"
+        },
+        {
+            "type": "single",
+            "resource": "coralvalley:custom/weapons/orkknuppel"
+        },
+        {
+            "type": "single",
+            "resource": "coralvalley:custom/weapons/vlindermes"
+        },
+        {
+            "type": "single",
+            "resource": "coralvalley:custom/weapons/zeis"
+        },
+        {
+            "type": "single",
             "resource": "minecraft:custom/equipment_icon"
         },
         {
@@ -1295,86 +1411,6 @@
         {
             "type": "single",
             "resource": "minecraft:custom/politienederland_leggings_icon"
-        },
-        {
-            "type": "single",
-            "resource": "minecraft:guns/royalgold"
-        },
-        {
-            "type": "single",
-            "resource": "minecraft:guns/gray2"
-        },
-        {
-            "type": "single",
-            "resource": "minecraft:guns/gray3"
-        },
-        {
-            "type": "single",
-            "resource": "minecraft:guns/graygreen1"
-        },
-        {
-            "type": "single",
-            "resource": "minecraft:guns/gray5"
-        },
-        {
-            "type": "single",
-            "resource": "minecraft:guns/brown1"
-        },
-        {
-            "type": "single",
-            "resource": "minecraft:guns/black"
-        },
-        {
-            "type": "single",
-            "resource": "minecraft:guns/1-metal"
-        },
-        {
-            "type": "single",
-            "resource": "minecraft:guns/yellow2"
-        },
-        {
-            "type": "single",
-            "resource": "minecraft:guns/red1"
-        },
-        {
-            "type": "single",
-            "resource": "minecraft:guns/gray4"
-        },
-        {
-            "type": "single",
-            "resource": "minecraft:guns/orange2"
-        },
-        {
-            "type": "single",
-            "resource": "minecraft:guns/silver1"
-        },
-        {
-            "type": "single",
-            "resource": "minecraft:./p901"
-        },
-        {
-            "type": "single",
-            "resource": "minecraft:./p902"
-        },
-        {
-            "type": "single",
-            "resource": "minecraft:guns/scope"
-        },
-        {
-            "type": "single",
-            "resource": "minecraft:guns/green1"
-        },
-        {
-            "type": "single",
-            "resource": "minecraft:./prosthetic_knife_mesh"
-        },
-        {
-            "type": "single",
-            "resource": "minecraft:badges/white"
-        },
-        {
-            "type": "single",
-            "resource": "minecraft:badges/gray1"
         }
     ]
 }
