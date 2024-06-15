@@ -102,6 +102,15 @@
          "type":"bitmap"
       },
       {
+         "file":"custom/font/ranks/tester.png",
+         "chars":[
+            "⑫"
+         ],
+         "height":7,
+         "ascent":7,
+         "type":"bitmap"
+      },      
+      {
          "file":"custom/font/ranks/player.png",
          "chars":[
             "⑦"
@@ -141,15 +150,6 @@
          "file":"custom/font/ranks/media.png",
          "chars":[
             "⑪"
-         ],
-         "height":7,
-         "ascent":7,
-         "type":"bitmap"
-      },
-      {
-         "file":"custom/font/more/game.png",
-         "chars":[
-            "⑫"
          ],
          "height":7,
          "ascent":7,
