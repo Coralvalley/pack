@@ -1510,6 +1510,22 @@
         },
         {
             "type": "single",
+            "resource": "minecraft:trims/models/icons/maidbonnetblack"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:trims/models/icons/maiddressblack"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:trims/models/icons/purplehaze_evo_leggings"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:trims/models/icons/maidskirtblack"
+        },
+        {
+            "type": "single",
             "resource": "minecraft:trims/models/icons/marineblauw_evo_boots"
         },
         {
@@ -1583,10 +1599,6 @@
         {
             "type": "single",
             "resource": "minecraft:trims/models/icons/purplehaze_evo_helmet"
-        },
-        {
-            "type": "single",
-            "resource": "minecraft:trims/models/icons/purplehaze_evo_leggings"
         },
         {
             "type": "single",
