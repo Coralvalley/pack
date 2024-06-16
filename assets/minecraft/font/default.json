@@ -156,6 +156,7 @@
          "type":"bitmap"
       },
       {"type": "bitmap","file": "general/logosquare.png","ascent": 55, "height": 80,"chars": ["⿌⿍"]},
+      {"type": "bitmap","file": "general/logosquarech.png","ascent": 55, "height": 80,"chars": ["⾲⽰"]},
       {"type": "bitmap","file": "general/logosquare.png","ascent": 70, "height": 100,"chars": ["җҘ"]},
       {"type": "bitmap","file": "font/error_red.png","ascent": 7,"height": 7,"chars": ["⑚"]},
       {"type": "bitmap","file": "font/error_yellow.png","ascent": 7,"height": 7,"chars": ["␰"]},
