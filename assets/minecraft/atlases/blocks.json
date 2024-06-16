@@ -1398,6 +1398,166 @@
         },
         {
             "type": "single",
+            "resource": "minecraft:trims/models/icons/black_diamond_boots_icon"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:trims/models/icons/black_diamond_chestplate_icon"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:trims/models/icons/black_diamond_helmet_icon"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:trims/models/icons/black_diamond_leggings_icon"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:trims/models/icons/bob_de_bouwer_boots_icon"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:trims/models/icons/bob_de_bouwer_chestplate_icon"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:trims/models/icons/bob_de_bouwer_helmet_icon"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:trims/models/icons/bob_de_bouwer_leggings_icon"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:trims/models/icons/crocodile_evo_boots"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:trims/models/icons/crocodile_evo_chestplate"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:trims/models/icons/crocodile_evo_helmet"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:trims/models/icons/crocodile_evo_leggings"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:trims/models/icons/dirty_midnight_boots"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:trims/models/icons/dirty_midnight_chestplate"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:trims/models/icons/dirty_midnight_helmet"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:trims/models/icons/dirty_midnight_leggings"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:trims/models/icons/dreaming_boots_icon"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:trims/models/icons/dreaming_chestplate_icon"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:trims/models/icons/dreaming_helmet_icon"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:trims/models/icons/dreaming_leggings_icon"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:trims/models/icons/eenhoorn_boots_icon"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:trims/models/icons/eenhoorn_chestplate_icon"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:trims/models/icons/eenhoorn_helmet_icon"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:trims/models/icons/eenhoorn_leggings_icon"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:trims/models/icons/fbi_zwart_evo_boots"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:trims/models/icons/fbi_zwart_evo_chestplate"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:trims/models/icons/fbi_zwart_evo_helmet"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:trims/models/icons/fbi_zwart_evo_leggings"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:trims/models/icons/marineblauw_evo_boots"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:trims/models/icons/marineblauw_evo_chestplate"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:trims/models/icons/marineblauw_evo_helmet"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:trims/models/icons/marineblauw_evo_leggings"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:trims/models/icons/midnight_boots_icon"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:trims/models/icons/midnight_chestplate_icon"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:trims/models/icons/midnight_helmet_icon"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:trims/models/icons/midnight_leggings_icon"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:trims/models/icons/muney_boots"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:trims/models/icons/muney_chestplate"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:trims/models/icons/muney_helmet"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:trims/models/icons/muney_leggings"
+        },
+        {
+            "type": "single",
             "resource": "minecraft:custom/politienederland_boots_icon"
         },
         {
@@ -1411,6 +1571,38 @@
         {
             "type": "single",
             "resource": "minecraft:custom/politienederland_leggings_icon"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:trims/models/icons/purplehaze_evo_boots"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:trims/models/icons/purplehaze_evo_chestplate"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:trims/models/icons/purplehaze_evo_helmet"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:trims/models/icons/purplehaze_evo_leggings"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:trims/models/icons/suikerspin_evo_boots"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:trims/models/icons/suikerspin_evo_chestplate"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:trims/models/icons/suikerspin_evo_helmet"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:trims/models/icons/suikerspin_evo_leggings"
         }
     ]
 }

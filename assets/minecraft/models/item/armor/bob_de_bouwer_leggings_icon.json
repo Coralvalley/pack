@@ -1,0 +1,7 @@
+{
+	"parent":"item/generated",
+	"textures":{
+	   "layer0":"custom/slot_transparent",
+	   "layer1":"trims/models/icons/bob_de_bouwer_leggings_icon"
+	}
+ }

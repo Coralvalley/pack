@@ -14,25 +14,85 @@
 		  "predicate":{
 			 "custom_model_data":2
 		  },
-		  "model":"custom/custom_gear/shadow_gear/shadow_chestplate"
+		  "model":"item/armor/bob_de_bouwer_boots_icon"
+	   },
+	   {
+		  "predicate":{
+			 "custom_model_data":3
+		  },
+		  "model":"item/armor/dirty_midnight_boots"
 	   },
 	   {
 		  "predicate":{
 			 "custom_model_data":4
 		  },
-		  "model":"custom/custom_gear/toxic_gear/toxic_chestplate"
+		  "model":"item/armor/muney_boots"
+	   },
+	   {
+		  "predicate":{
+			 "custom_model_data":5
+		  },
+		  "model":"item/armor/midnight_boots_icon"
 	   },
 	   {
 		  "predicate":{
 			 "custom_model_data":6
 		  },
-		  "model":"custom/custom_gear/toxic_gear/toxic_chestplate"
+		  "model":"item/armor/eenhoorn_boots_icon"
 	   },
 	   {
 		  "predicate":{
 			 "custom_model_data":7
 		  },
-		  "model":"custom/custom_gear/spirit_gear/spirit_chestplate"
-	   }
+		  "model":"item/armor/dreaming_boots_icon"
+	   },
+	   {
+		"predicate":{
+		   "custom_model_data":8
+		},
+		"model":"item/armor/black_diamond_boots_icon"
+	 },
+	 {
+		"predicate":{
+		   "custom_model_data":9
+		},
+		"model":"item/armor/fbi_zwart_evo_boots"
+	 },
+	 {
+		"predicate":{
+		   "custom_model_data":10
+		},
+		"model":"item/armor/crocodile_evo_boots"
+	 },
+	 {
+		"predicate":{
+		   "custom_model_data":11
+		},
+		"model":"item/armor/suikerspin_evo_boots"
+	 },
+	 {
+		"predicate":{
+		   "custom_model_data":12
+		},
+		"model":"item/armor/purplehaze_evo_boots"
+	 },
+	 {
+		"predicate":{
+		   "custom_model_data":13
+		},
+		"model":"item/armor/marineblauw_evo_boots"
+	 },
+	 {
+		"predicate":{
+		   "custom_model_data":14
+		},
+		"model":"item/armor/"
+	 },
+	 {
+		"predicate":{
+		   "custom_model_data":15
+		},
+		"model":"item/armor/"
+	 }
 	]
  }
