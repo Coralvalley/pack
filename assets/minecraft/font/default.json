@@ -161,6 +161,7 @@
       {"type": "bitmap","file": "font/error_red.png","ascent": 7,"height": 7,"chars": ["⑚"]},
       {"type": "bitmap","file": "font/error_yellow.png","ascent": 7,"height": 7,"chars": ["␰"]},
       {"type": "bitmap","file": "font/error_discord.png","ascent": 7,"height": 7,"chars": ["⩢"]},
+      {"type": "bitmap","file": "font/car.png","ascent": 20,"height": 32,"chars": ["⽀"]},
       {"type": "bitmap","file": "utils/space.png","ascent": -32768,"height": -3,"chars": ["⿎"]}
    ]
 }
