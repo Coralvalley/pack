@@ -9,7 +9,6 @@ in ivec2 UV2;
 uniform sampler2D Sampler2;
 uniform mat4 ModelViewMat;
 uniform mat4 ProjMat;
-uniform mat3 IViewRotMat;
 uniform float GameTime;
 uniform int FogShape;
 uniform vec2 ScreenSize;
@@ -21,7 +20,7 @@ out float depthLevel;
 
 void main() {
     vec4 vertex = vec4(Position, 1.0);
-    vertexDistance = fog_distance(ModelViewMat, IViewRotMat * Position, FogShape);
+    vertexDistance = fog_distance(Position, FogShape);
     depthLevel = Position.z;
     texCoord0 = UV0;
     if (Color.xyz == vec3(255., 254., 253.) / 255.) {
@@ -29,13 +28,19 @@ void main() {
         vertex.y += 1;
         vertex.x += 1;
         gl_Position = ProjMat * ModelViewMat * vertex;
+    } else if (Color.xyz == vec3(253., 254., 255.) / 255.) {
+        vertexColor = Color*texelFetch(Sampler2, UV2 / 16, 0);
+        vertex.y += 1;
+        vertex.x += 1;
+        vertex.z -= 0.002;
+        gl_Position = ProjMat * ModelViewMat * vertex;
     } else if (Color.xyz == vec3(254., 254., 254.) / 255.) {
         vertexColor = Color*texelFetch(Sampler2, UV2 / 16, 0);
         vertex.z -= 0.001;
         gl_Position = ProjMat * ModelViewMat * vertex;
     } else if (Color.xyz == vec3(253., 254., 254.) / 255.) {
         vertexColor = Color*texelFetch(Sampler2, UV2 / 16, 0);
-        vertex.z -= 0.0011;
+        vertex.z -= 0.0015;
         gl_Position = ProjMat * ModelViewMat * vertex;
     } else {
         vertexColor = Color*texelFetch(Sampler2, UV2 / 16, 0);
