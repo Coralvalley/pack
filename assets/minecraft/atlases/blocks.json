@@ -2,6 +2,10 @@
     "sources": [
         {
             "type": "single",
+            "resource": "minecraft:ui/eventtoken"
+        },
+        {
+            "type": "single",
             "resource": "coralvalley:general/square"
         },
         {

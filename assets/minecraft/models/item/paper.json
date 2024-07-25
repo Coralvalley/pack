@@ -5,6 +5,7 @@
  },
  
  "overrides": [
- {"predicate": {"custom_model_data":1}, "model": "coralvalley:custom/text/fun_world"}
+ {"predicate": {"custom_model_data":1}, "model": "coralvalley:custom/text/fun_world"},
+ {"predicate": {"custom_model_data":2}, "model": "coralvalley:custom/items/eventtoken"}
  ]
 }
