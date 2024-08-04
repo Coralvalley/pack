@@ -242,6 +242,10 @@
         },
         {
             "type": "single",
+            "resource": "minecraft:items/diamond_hoe"
+        },
+        {
+            "type": "single",
             "resource": "minecraft:items/iron_pickaxe"
         },
         {
@@ -422,10 +426,6 @@
         },
         {
             "type": "single",
-            "resource": "minecraft:blocks/wool_colored_black"
-        },
-        {
-            "type": "single",
             "resource": "minecraft:blocks/concrete_cyan"
         },
         {
@@ -451,6 +451,10 @@
         {
             "type": "single",
             "resource": "minecraft:custom/overige/gokublue"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:blocks/wool_colored_black"
         },
         {
             "type": "single",
@@ -1379,6 +1383,942 @@
         {
             "type": "single",
             "resource": "minecraft:custom_ui/items/slot_transparent"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:items/particle"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:items/texture"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:custom/cars/apache_black"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:custom/cars/apache_blue"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:custom/cars/apache_bordeaux"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:custom/cars/apache_brown"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:custom/cars/apache_copper"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:custom/cars/apache_creme"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:custom/cars/apache_criminalblack"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:custom/cars/apache_gold"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:custom/cars/apache_gray"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:custom/cars/apache_green"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:custom/cars/apache_leaves"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:custom/cars/apache_mint"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:custom/cars/apache_obsidian"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:custom/cars/apache_orange"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:custom/cars/apache_pink"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:custom/cars/apache_realpink"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:custom/cars/apache_red"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:custom/cars/apache_roodze"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:custom/cars/apache_upperblue"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:custom/cars/boat_1"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:custom/cars/boat_2"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:custom/cars/boat_3"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:custom/overige/broomstick_texture"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:custom/overige/broomstick_texture2"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:custom/overige/broomstick_texture3"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:custom/overige/broomstick_texture4"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:custom/overige/broomstick_texture5"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:custom/cars/fiets_man_babyblue"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:custom/cars/fiets_man_blueblack"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:custom/cars/fiets_man_bluediamond"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:custom/cars/fiets_man_brown"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:custom/cars/fiets_man_gold"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:custom/cars/fiets_man_gray"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:custom/cars/fiets_man_green"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:custom/cars/fiets_man_king"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:custom/cars/fiets_man_pink"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:custom/cars/fiets_man_red"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:custom/cars/fiets_vrouw_babygirl"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:custom/cars/fiets_vrouw_blueblack"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:custom/cars/fiets_vrouw_bluediamond"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:custom/cars/fiets_vrouw_brown"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:custom/cars/fiets_vrouw_gold"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:custom/cars/fiets_vrouw_gray"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:custom/cars/fiets_vrouw_green"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:custom/cars/fiets_vrouw_king"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:custom/cars/fiets_vrouw_pink"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:custom/cars/fiets_vrouw_rainbow"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:custom/cars/fiets_vrouw_red"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:custom/cars/hotrod_army"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:custom/cars/hotrod_black"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:custom/cars/hotrod_blackyellow"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:custom/cars/hotrod_blue"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:custom/cars/hotrod_gold"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:custom/cars/hotrod_orange"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:custom/cars/hotrod_pink"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:custom/cars/hotrod_red"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:custom/cars/hotrod_valentijn"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:custom/cars/hoverboard_babyblue"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:custom/cars/hoverboard_blue"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:custom/cars/hoverboard_champagne"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:custom/cars/hoverboard_desert"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:custom/cars/hoverboard_ender"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:custom/cars/hoverboard_gold"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:custom/cars/hoverboard_goldenglass"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:custom/cars/hoverboard_green"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:custom/cars/hoverboard_lemonyellow"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:custom/cars/hoverboard_orange"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:custom/cars/hoverboard_purple"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:items/e_particle"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:items/e_texture"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:custom/cars/hoverboard_red"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:custom/cars/hoverboard_white"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:custom/cars/hoverboard_yellow"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:custom/cars/hovercraft_animatedpurpleyellow"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:custom/cars/hovercraft_black"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:custom/cars/hovercraft_gold"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:custom/cars/hovercraft_lime"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:custom/cars/hovercraft_orange"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:custom/cars/hovercraft_white"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:custom/cars/jeep_blue"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:custom/cars/jeep_gold"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:custom/cars/jeep_politie"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:custom/cars/motor_black"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:custom/cars/motor_blue"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:custom/cars/motor_easter"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:custom/cars/motor_gold"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:custom/cars/motor_gray"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:custom/cars/motor_green"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:custom/cars/motor_koningsdag"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:custom/cars/motor_orange"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:custom/cars/motor_pink"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:custom/cars/motor_police"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:custom/cars/motor_red"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:custom/cars/motor_vierjaar"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:custom/cars/motor_white"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:custom/cars/plane"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:custom/cars/planeblue"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:custom/cars/planedragon"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:custom/cars/planefighter"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:custom/cars/planefighter_oranje"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:custom/cars/planegold"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:custom/cars/planegreen"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:custom/cars/planeoctopus"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:custom/cars/planeorange"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:custom/cars/planepurple"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:custom/cars/racecar_animatedrainbow"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:custom/cars/racecar_black"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:custom/cars/racecar_diamond"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:custom/cars/racecar_emerald"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:custom/cars/racecar_ender"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:custom/cars/racecar_gold"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:custom/cars/racecar_orange"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:custom/cars/racecar_orangeblack"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:custom/cars/racecar_pink"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:custom/cars/racecar_purplefade"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:custom/cars/racecar_red"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:custom/cars/raket_legend_black"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:custom/cars/raket_legend_camodark"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:custom/cars/raket_legend_camoforest"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:custom/cars/raket_legend_camomarine"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:custom/cars/raket_legend_desert"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:custom/cars/raket_legend_green"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:custom/cars/raket_legend_sand"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:custom/cars/sedan_babyblue"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:custom/cars/sedan_beige"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:custom/cars/sedan_black"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:custom/cars/sedan_brown"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:custom/cars/sedan_cars"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:custom/cars/sedan_cognac"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:custom/cars/sedan_gray"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:custom/cars/sedan_green"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:custom/cars/sedan_kerst"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:custom/cars/sedan_koningsdag"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:custom/cars/sedan_lemonyellow"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:custom/cars/sedan_les"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:custom/cars/sedan_lightning"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:custom/cars/sedan_lily"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:custom/cars/sedan_monster"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:custom/cars/sedan_navyblauw"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:custom/cars/sedan_pink"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:custom/cars/sedan_politie"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:custom/cars/sedan_purple"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:custom/cars/sedan_red"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:custom/cars/sedan_sportief_1"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:custom/cars/sedan_sportief_2"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:custom/cars/sedan_sportief_3"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:custom/cars/sedan_sportief_4"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:custom/cars/sedan_sportief_babyboy"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:custom/cars/sedan_sportief_babygirl"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:custom/cars/sedan_sportief_diamond"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:custom/cars/sedan_sportief_emerald"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:custom/cars/sedan_sportief_gold"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:custom/cars/sedan_sportief_goldv2"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:custom/cars/sedan_sportief_kerst"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:custom/cars/sedan_sportief_lego"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:custom/cars/sedan_sportief_obsidian"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:custom/cars/sedan_sportief_president"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:custom/cars/sedan_sportief_quarts"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:custom/cars/sedan_sportief_rainbow"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:custom/cars/sedan_yellow"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:custom/cars/sedan_zalm"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:custom/cars/sportief_black"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:custom/cars/sportief_blackyellow"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:custom/cars/sportief_bordeauxclean"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:blocks/glass_light_blue"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:custom/cars/sportief_diamond"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:blocks/glass_lime"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:custom/cars/sportief_emerald"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:custom/cars/sportief_fakegold"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:custom/cars/sportief_fakegoldclean"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:custom/cars/sportief_flameblue"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:custom/cars/sportief_flamegreen"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:custom/cars/sportief_flamepink"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:custom/cars/sportief_flamered"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:custom/cars/sportief_flamewhite"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:custom/cars/sportief_forest"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:custom/cars/sportief_forestclean"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:blocks/glass_yellow"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:custom/cars/sportief_gold"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:custom/cars/sportief_koningsclean"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:custom/cars/sportief_navyblauw"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:custom/cars/sportief_nietrood"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:custom/cars/sportief_nietroodclean"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:custom/cars/sportief_orange"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:custom/cars/sportief_peppa"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:custom/cars/sportief_peppaclean"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:custom/cars/sportief_pink"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:custom/cars/sportief_puppel"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:custom/cars/sportief_puppelclean"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:custom/cars/sportief_roze"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:custom/cars/sportief_white"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:custom/cars/suv_black"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:custom/cars/suv_blue"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:custom/cars/suv_bordeaux"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:custom/cars/suv_brown"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:custom/cars/suv_cabrio_greenwhite"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:custom/cars/suv_cabrio_lightbluewhite"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:custom/cars/suv_cabrio_orangeblack"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:custom/cars/suv_cabrio_pinkwhite"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:custom/cars/suv_cabrio_purplewhite"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:custom/cars/suv_cabrio_redblack"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:custom/cars/suv_cabrio_yellowgold"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:custom/cars/suv_criminalblack"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:custom/cars/suv_ender"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:custom/cars/suv_giraffe"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:custom/cars/suv_gold"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:custom/cars/suv_green"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:custom/cars/suv_lime"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:custom/cars/suv_navyblue"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:custom/cars/suv_pink"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:custom/cars/suv_pokemon"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:custom/cars/suv_politie"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:custom/cars/suv_red"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:custom/cars/suv_stars"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:custom/cars/suv_upperblue"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:custom/cars/suv_white"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:custom/cars/suv_yellow"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:custom/cars/tank_legend_black"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:custom/cars/tank_legend_camodark"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:custom/cars/tank_legend_camoforest"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:custom/cars/tank_legend_camomarine"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:custom/cars/tank_legend_desert"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:custom/cars/tank_legend_green"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:custom/cars/tank_legend_sand"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:custom/cars/ufo_vehicle"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:custom/cars/ufo_vehicle_black"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:custom/cars/ufo_vehicle_blackgold"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:custom/cars/ufo_vehicle_blue"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:custom/cars/ufo_vehicle_orange"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:custom/cars/ufo_vehicle_purple"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:custom/cars/wieken_groot"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:custom/cars/wieken_klein"
         },
         {
             "type": "single",
