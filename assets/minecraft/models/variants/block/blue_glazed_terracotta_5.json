@@ -1,6 +1,8 @@
 {
-  "parent": "minecraft:block/cube_all",
+  "parent": "block/cube_bottom_top",
   "textures": {
-    "all": "minecraft:variants/block/blue_glazed_terracotta_5"
+    "top": "minecraft:variants/block/blue_glazed_terracotta_5",
+    "bottom": "minecraft:variants/block/blue_glazed_terracotta_5",
+    "side": "minecraft:block/cyan_terracotta"
   }
 }

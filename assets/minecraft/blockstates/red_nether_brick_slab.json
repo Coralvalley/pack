@@ -1,0 +1,27 @@
+{
+  "variants": {
+    "type=bottom": [
+      {
+        "model": "minecraft:block/emerald_ore_slab",
+        "weight": 3
+      },
+      {
+        "model": "minecraft:block/red_nether_brick_slab",
+        "weight": 7
+      }
+    ],
+    "type=double": {
+      "model": "minecraft:block/cyan_terracotta"
+    },
+    "type=top": [
+      {
+        "model": "minecraft:block/emerald_ore_slab_top",
+        "weight": 3
+      },
+      {
+        "model": "minecraft:block/red_nether_brick_slab_top",
+        "weight": 7
+      }
+    ]
+  }
+}
