@@ -3,7 +3,7 @@ name: Resourcepack Zipper
 on:
   push:
     branches:
-      - main
+      - main  # Adjust this branch name if needed
 
 jobs:
   build:
@@ -15,19 +15,22 @@ jobs:
       with:
         fetch-depth: 0 # A non-shallow repository clone is required
 
+    - name: Run PackSquash
+      uses: ComunidadAylas/PackSquash-action@v4
+      with:
+        packsquash_version: latest # Uses the latest PackSquash release supported by the action
+        shader_source_transformation_strategy: keep_as_is
         
-    - name: Retrieve the current time of Amsterdam
+    - name: Retrieve current Date Time in Singapore TimeZone
       shell: bash
       run: echo "START_TIME=$(TZ=":Europe/Amsterdam" date -R|sed 's/.....$//')" >> $GITHUB_ENV
 
-    - name: Generate version number
-      id: version
-      run: |
-        # Calculate version number from GitHub run number
-        PATCH=$(echo ${{ github.run_number }} | awk '{printf "%d", $1%10}')
-        MINOR=$(echo ${{ github.run_number }} | awk '{printf "%d", ($1/10)%10}')
-        MAJOR=1
-        echo "::set-output name=VERSION::${MAJOR}.${MINOR}.${PATCH}"
+    - name: Update pack.mcmeta
+      uses: jossef/action-set-json-field@v2.1
+      with:
+        file: pack.mcmeta
+        field: pack.description
+        value: "Sexvalley | v${{ github.run_number }}\n${{ env.START_TIME }}"
 
     - name: Create ZIP file
       run: |
@@ -48,8 +51,8 @@ jobs:
       env:
         GITHUB_TOKEN: ${{ secrets.RESOURCE_ZIPPER }}
       with:
-        tag_name: release-${{ steps.version.outputs.VERSION }}
-        release_name: v${{ steps.version.outputs.VERSION }}
+        tag_name: release-${{ github.run_number }}
+        release_name: v${{ github.run_number }}
         draft: false
         prerelease: false
 
